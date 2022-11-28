@@ -1,6 +1,6 @@
 import React from 'react'
 import VideoIcon from "../images/icons/video.svg"
-function Main_left() {
+function Main_Left() {
     const stl = {
         mainleft: "w-1/2 z-10"
     }
@@ -27,4 +27,4 @@ function Main_left() {
     )
 }
 
-export default Main_left
+export default Main_Left
