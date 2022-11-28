@@ -6,7 +6,7 @@ function Main_left() {
     }
     return (
         <div className={stl.mainleft}>
-            <span className='bg-[#FFF2D4] px-3 py-2 rounded-[8px] font-inter text-[#F4B41B'>Fast Delevery</span>
+            <span className='bg-[#FFF2D4] px-3 py-2 rounded-[8px] font-inter text-[#F4B41B]'>Fast Delevery</span>
 
             <h1 className='text-[48px] font-sans font-bold my-4 tracking-wide'>
                 Discover Your Favourite <br /> Food and <span className='text-primary_text'>Test Forever</span>
