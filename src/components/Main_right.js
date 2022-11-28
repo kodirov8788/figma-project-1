@@ -1,7 +1,7 @@
 import React from 'react'
 import Mainbg from "../images/mainbg.svg"
 import Shape from "../images/icons/Shape.svg"
-function Main_Right() {
+function Main_right() {
     const stl = {
         mainright: "w-1/2 w-fit absolute z-1 right-0 top-[7em] flex"
     }
@@ -13,4 +13,4 @@ function Main_Right() {
     )
 }
 
-export default Main_Right
+export default Main_right

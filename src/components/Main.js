@@ -1,6 +1,6 @@
 import React from 'react'
-import MainLeft from './Main_Left'
-import MainRight from './Main_Right'
+import MainLeft from './Main_left'
+import MainRight from './Main_right'
 
 function Main() {
     const stl = {
